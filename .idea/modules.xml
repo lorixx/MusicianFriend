@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Musician.iml" filepath="$PROJECT_DIR$/Musician.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Musician-grailsPlugins.iml" filepath="$PROJECT_DIR$/Musician-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
